@@ -43,3 +43,6 @@ xcuserdata
 DerivedData
 *.xcuserstate
 
+# Created by https://www.gitignore.io
+
+#!! ERROR: os is undefined. Use list command to see defined gitignore types !!#

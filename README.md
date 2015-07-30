@@ -1,17 +1,17 @@
-# east-bay-ideas
+# Women Who Code Oakland
 
-![Women who code](images/WomenWhoCode.jpg)
+Group github for Women Who Code Oakland
 
-# Sections
+* [https://github.com/womenwhocodeoakland](https://github.com/womenwhocodeoakland)
 
-- [Group Projects](projects/README.md)
-- [Learning](learning/README.md)
-- [Members](members.md) A list of some of our members, what kind of programming they're into, and links to their resumes/github accounts!
-- [Misc](misc/README.md) did you know that Oakland is Javascript city? Did you know that SimCity was created in Emeryville?
+## Group Projects
+
+More group projects coming here!
+We'd love to work with the datasets listed below
 
 ## Datasets
 
-There are all sorts of Oakland and East Bay releated data sets to play with, many using the [SODA Developers API](http://dev.socrata.com) 
+There are all sorts of interesting Oakland related data sets to play with, many using the [SODA Developers API](http://dev.socrata.com) 
 
 - [data.open.oakland.org](http://data.openoakland.org)
 - City of Oakland Data [link](https://data.oaklandnet.com)
@@ -20,17 +20,4 @@ There are all sorts of Oakland and East Bay releated data sets to play with, man
 	- Map of Head Start Locations [link](https://data.oaklandnet.com/Education/Map-of-Head-Start-Locations/hqcd-z3hu) 
 
 
-## Brainstorming
-
-Our collective ideas about what the East Bay chapter should do in 2015.
-
-- Code Review 
-- Learning
-- Debugging, Unit Testing
-- Interviewing Skills: Algorithms
-- Frameworks and Libraries: D3, MVC, Angular, MEAN Stack
-- Overview of software/web development careers: DevOps, QA, Development, More
-- Game Development
-
-![Retro Image](doc/images/retrowomenfilm.jpg)
-
+![Women who code](images/wwcode-eastbay_medium.png)
